@@ -1,5 +1,15 @@
 # Engineering Assessment Backend (NestJS)
 
+## Overview
+
+This project is a NestJS backend service that accepts receipt images, extracts key details using an AI model, persists the extracted data, and exposes it through a REST API.
+
+It includes:
+- A service function to extract receipt details from an image.
+- An API endpoint to trigger the extraction.
+- Data persistence (file).
+- Unit tests covering edge cases and expected scenarios.
+
 ## Project Initialization
 
 1. Clone this repository locally
@@ -21,6 +31,20 @@
    Your backend server should be running on `localhost:3000`, unless a different port is defined in `process.env.PORT`.
 
    You can check that the server is running correctly by trying the base endpoint `GET http://localhost:3000`, which should return the text "Hello World!"
+
+
+## AI Model 
+
+AI Model Used
+
+The application uses Tesseract.js (open-source OCR) combined with custom parsing logic to extract structured data from the OCR text.
+
+## Data Persistence
+
+Data Persistence
+The receipt image and extracted data are stored using a lightweight file-based approach (e.g., fs) for demo purposes. This can easily be extended to a database like SQLite or MongoDB.
+
+
 
 ## Project Work
 

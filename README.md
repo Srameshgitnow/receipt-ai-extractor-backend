@@ -1,13 +1,3 @@
-## Overview
-
-This project is a NestJS backend service that accepts receipt images, extracts key details using an AI model, persists the extracted data, and exposes it through a REST API.
-
-It includes:
-- A service function to extract receipt details from an image.
-- An API endpoint to trigger the extraction.
-- Data persistence (file).
-- Unit tests covering edge cases and expected scenarios.
-
 
 # 🧠 Receipt AI Extractor – Backend (NestJS + Tesseract)
 

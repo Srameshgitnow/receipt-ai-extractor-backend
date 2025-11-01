@@ -57,9 +57,13 @@ It includes:
 
 
 npm install
+
 npm run start:dev
-# or
+
+or
+
 npm run start
+
 Server runs at: http://localhost:${PORT} (default 3000)
 
 ---------------

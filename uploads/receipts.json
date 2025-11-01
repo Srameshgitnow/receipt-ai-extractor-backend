@@ -1,0 +1,352 @@
+[
+  {
+    "id": "f5325f0b-23b0-4e01-9655-f0b1d131f93f",
+    "date": "07/28/17",
+    "currency": "",
+    "vendor_name": "I PX",
+    "receipt_items": [
+      {
+        "item_name": "3991\nMANAGER DIANA EARNEST\n231 BLUEBELL DR SW\nNEW PHILADELPHIA OH",
+        "item_cost": 44663
+      },
+      {
+        "item_name": "01301\nPET TOY 004747571658",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nFLOPPY PUPPY 004747514846",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nSSSUPREME S 070060332153",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "X",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "SQUEAK 084699803238",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "X\nMUNCHY DMBEL 068113108796",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "X\nDOG TREAT 007119013654",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "X\nPED PCH 1 002310011802",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "X\nPED PCH 1 002310011802",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "X\nCOUPON 23100 052310037000",
+        "item_cost": 1
+      },
+      {
+        "item_name": "0\nHNYMD SMORES 088491226837 F",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "0\nFRENCH DRSNG 004132100655 F",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "0\n3 ORANGES 001466835001 F",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "N\nBABY CARROTS 003338366602 I",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "N\nCOLLARDS 000000004 614K",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "N\nCALZONE 005208362080 F",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "0\nMM RVW MNT 003399105848",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "X\nSTKOBRLPLABL 001558679414",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nSTKOBRLPLABL 001558679414",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nBLING BEADS 076594060699",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nGREAT VALUE 007874203191 F",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "0\nLIPTON 001200011224 F",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "X\nDRY DOG 002310011035",
+        "item_cost": 12.44
+      },
+      {
+        "item_name": "X\nSUBTOTAL",
+        "item_cost": 93.62
+      },
+      {
+        "item_name": "TAX 1",
+        "item_cost": 6.75
+      },
+      {
+        "item_name": "59\nTOTAL",
+        "item_cost": 98.21
+      },
+      {
+        "item_name": "VISA TEND",
+        "item_cost": 98.21
+      },
+      {
+        "item_name": "XXX 9166 I",
+        "item_cost": 0
+      },
+      {
+        "item_name": "E\nAID A0000000980840\nTC",
+        "item_cost": 51319
+      },
+      {
+        "item_name": "Signature Verified",
+        "item_cost": 7
+      },
+      {
+        "item_name": "17",
+        "item_cost": 2
+      },
+      {
+        "item_name": "48\nCHANGE DUE",
+        "item_cost": 0
+      },
+      {
+        "item_name": "ITEMS SOLD",
+        "item_cost": 25
+      },
+      {
+        "item_name": "0443 0223 1059 8001",
+        "item_cost": 5140
+      },
+      {
+        "item_name": "Y",
+        "item_cost": 7
+      },
+      {
+        "item_name": "17",
+        "item_cost": 2
+      }
+    ],
+    "tax": 1,
+    "total": 93.62,
+    "image_url": "/uploads/a245b7f8-7b3d-43b8-a9d6-ad7a69a47db6_3.jpeg"
+  },
+  {
+    "id": "f72e3653-ef21-4ca2-844c-c15de3d3b7fe",
+    "date": "07/28/17",
+    "currency": "",
+    "vendor_name": "I PX",
+    "receipt_items": [
+      {
+        "item_name": "3991\nMANAGER DIANA EARNEST\n231 BLUEBELL DR SW\nNEW PHILADELPHIA OH",
+        "item_cost": 44663
+      },
+      {
+        "item_name": "01301\nPET TOY 004747571658",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nFLOPPY PUPPY 004747514846",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nSSSUPREME S 070060332153",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "X",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "SQUEAK 084699803238",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "X\nMUNCHY DMBEL 068113108796",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "X\nDOG TREAT 007119013654",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "X\nPED PCH 1 002310011802",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "X\nPED PCH 1 002310011802",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "X\nCOUPON 23100 052310037000",
+        "item_cost": 1
+      },
+      {
+        "item_name": "0\nHNYMD SMORES 088491226837 F",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "0\nFRENCH DRSNG 004132100655 F",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "0\n3 ORANGES 001466835001 F",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "N\nBABY CARROTS 003338366602 I",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "N\nCOLLARDS 000000004 614K",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "N\nCALZONE 005208362080 F",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "0\nMM RVW MNT 003399105848",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "X\nSTKOBRLPLABL 001558679414",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nSTKOBRLPLABL 001558679414",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nSTKO SUNFLWR 001558679410",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nBLING BEADS 076594060699",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "X\nGREAT VALUE 007874203191 F",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "0\nLIPTON 001200011224 F",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "X\nDRY DOG 002310011035",
+        "item_cost": 12.44
+      },
+      {
+        "item_name": "X\nSUBTOTAL",
+        "item_cost": 93.62
+      },
+      {
+        "item_name": "TAX 1",
+        "item_cost": 6.75
+      },
+      {
+        "item_name": "59\nTOTAL",
+        "item_cost": 98.21
+      },
+      {
+        "item_name": "VISA TEND",
+        "item_cost": 98.21
+      },
+      {
+        "item_name": "XXX 9166 I",
+        "item_cost": 0
+      },
+      {
+        "item_name": "E\nAID A0000000980840\nTC",
+        "item_cost": 51319
+      },
+      {
+        "item_name": "Signature Verified",
+        "item_cost": 7
+      },
+      {
+        "item_name": "17",
+        "item_cost": 2
+      },
+      {
+        "item_name": "48\nCHANGE DUE",
+        "item_cost": 0
+      },
+      {
+        "item_name": "ITEMS SOLD",
+        "item_cost": 25
+      },
+      {
+        "item_name": "0443 0223 1059 8001",
+        "item_cost": 5140
+      },
+      {
+        "item_name": "Y",
+        "item_cost": 7
+      },
+      {
+        "item_name": "17",
+        "item_cost": 2
+      }
+    ],
+    "tax": 1,
+    "total": 93.62,
+    "image_url": "/uploads/e798e68c-00f2-41fb-8a0d-de6d5e697ed3_3.jpeg"
+  }
+]

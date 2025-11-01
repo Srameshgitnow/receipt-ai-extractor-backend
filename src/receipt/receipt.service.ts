@@ -38,6 +38,7 @@ export class ReceiptService {
     let ocrResult;
     try {
       ocrResult = await Tesseract.recognize(savePath, 'eng');
+      
     } catch (err) {
       this.logger.error('OCR extraction failed', err);
       throw new InternalServerErrorException('OCR extraction failed');
